@@ -10,3 +10,4 @@
 /home/fabio-muriel-pv/Desktop/EasyPOS/Domain/obj/Debug/net8.0/Domain.pdb
 /home/fabio-muriel-pv/Desktop/EasyPOS/Domain/obj/Debug/net8.0/ref/Domain.dll
 /home/fabio-muriel-pv/Desktop/EasyPOS/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/home/fabio-muriel-pv/Desktop/EasyPOS/Domain/obj/Debug/net8.0/Domain.sourcelink.json

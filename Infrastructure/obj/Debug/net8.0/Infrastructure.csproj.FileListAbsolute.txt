@@ -15,3 +15,4 @@
 /home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
 /home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
 /home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json

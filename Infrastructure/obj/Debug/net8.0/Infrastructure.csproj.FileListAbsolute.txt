@@ -1,0 +1,17 @@
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/bin/Debug/net8.0/Aplication.dll
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/bin/Debug/net8.0/Domain.dll
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/bin/Debug/net8.0/Domain.pdb
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/bin/Debug/net8.0/Aplication.pdb
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CopyComplete
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/home/fabio-muriel-pv/Desktop/EasyPOS/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll

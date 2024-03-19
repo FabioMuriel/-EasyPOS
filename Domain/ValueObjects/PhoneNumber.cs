@@ -1,4 +1,3 @@
-using System.Security.Cryptography.X509Certificates;
 using System.Text.RegularExpressions;
 namespace Domain.ValueObjects;
 
